@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: fantasy;
   color: black;
   background-color: #757bc8;
   font-family: fantasy;
@@ -31,6 +31,7 @@ nav a {
   text-decoration: none;
   color: #555;
 }
+
 
 nav a[aria-current='page'] {
   color: #000;
@@ -70,13 +71,13 @@ navbar li {
   padding: 12px;
 }
 
-ul {
-  box-align: ;
-}
 
 header {
   padding: 0rem;
   padding-block: 10;
 }
 
+img {
+  justify-self: center;
+}
 
